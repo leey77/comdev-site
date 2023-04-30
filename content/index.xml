@@ -1,29 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Apache Community Development - Welcome on Apache Comdev</title>
+    <title>ASF Community Development - Welcome on Apache Comdev</title>
     <link>https://community.apache.org/</link>
-    <description>Recent content in Apache Community Development - Welcome on Apache Comdev</description>
+    <description>Recent content in ASF Community Development - Welcome on Apache Comdev</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://community.apache.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 20 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://community.apache.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Preparing the Community Development blog move</title>
       <link>https://community.apache.org/blog/preparing-the-move/</link>
       <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>https://community.apache.org/blog/preparing-the-move/</guid>
-      <description>We&amp;rsquo;re in the process of moving our content here from the existing blogs.apache.org location.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://community.apache.org/proposals/ZestProposal.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://community.apache.org/proposals/ZestProposal.html</guid>
-      <description>title: Zest Proposal
-Abstract &amp;para; qi4j = new Energy4Java(); That is how to create the Qi4j runtime, and it captures the essence of its spirit. Qi4j is a platform to develop Composite Oriented Programming applications in Java in a new, exciting and productive manner.
-Governance of Provisional Top Level Project &amp;para; Provisional Top Level Project is a new idea at the ASF, and the Qi4j community is willing to try the idea, instead of simply debating it.</description>
+      <description>We&amp;rsquo;re in the process of moving our content here from the existing blogs.apache.org location.
+Help wanted &amp;para; The content has been exported to a branch of the comdev-site repository, it needs a bit of tweaking, patches welcome!</description>
     </item>
     
     <item>
@@ -54,17 +45,6 @@ Who should be a committer? Vote process What to do when a committer is elected N
       <guid>https://community.apache.org/pmc/adding-pmc-members.html</guid>
       <description>The PMC is responsible for identifying individuals who should be added to the PMC. This is a critical part of the long-term health and sustainability of a project, and ensures that contributors to the project have a voice in the project&amp;rsquo;s roadmap.
 Who should be a PMC member? Nominating, discussion, and voting What to do when a new PMC member is elected Note: Formal policy/process doc is here: https://www.apache.org/dev/pmc.html#newpmc</description>
-    </item>
-    
-    <item>
-      <title>Apache Conferences Calendar</title>
-      <link>https://community.apache.org/calendars/conferences.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://community.apache.org/calendars/conferences.html</guid>
-      <description>Deprecated - See New Calendar instead &amp;para; This calendar is no longer maintained; please see this page instead.
-This Calendar is maintained by the Apache Community Development Committee (ComDev), to have your event listed considered for addition please mail dev@community.apache.org. Note that to be listed in this calendar events must conform to the Third Party Event Branding Policy.
-Upcoming events &amp;para; List loading This Calendar is also available as an iCal feed</description>
     </item>
     
     <item>
@@ -191,7 +171,7 @@ Constructive discussion is the lifeblood of a successful project. However, we wa
     </item>
     
     <item>
-      <title>ContactPoints</title>
+      <title>Contact points</title>
       <link>https://community.apache.org/contactpoints.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
